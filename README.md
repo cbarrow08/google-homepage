@@ -1,1 +1,2 @@
 This is my first project for the Odin Project. I am going to rebuiled googles homepage using HTML and CSS
+I have been learning about git and adding things to the repository and committing things and then pushing it to github
