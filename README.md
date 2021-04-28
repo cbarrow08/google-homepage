@@ -1,0 +1,1 @@
+This is my first project for the Odin Project. I am going to rebuiled googles homepage using HTML and CSS
